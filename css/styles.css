@@ -1,0 +1,40 @@
+  body {
+    background-color: #eeeeee;
+  }
+
+  h1 {
+    color: #4ecca3;
+    font: normal bold normal 3em/1.5 Helvetica, Arial, sans-serif;
+  }
+
+  h2 {
+    color: #4ecca3;
+  }
+
+  h3 {
+    color: #4ecca3;
+  }
+
+  h4 {
+    color: #4ecca3;
+  }
+
+  hr {
+    border-color: #4ecca3;
+    border-style: dotted none none none;
+    border-width: 10px;
+    height: 10px;
+    width: 90px;
+  }
+
+  img:hover {
+    background-color: #4ecca3;
+  }
+
+  /*********************CLASS SELECTORS**********************/
+
+.face {
+  border-radius: 100%;
+}
+
+  /*********************ID Selectors**************************/
